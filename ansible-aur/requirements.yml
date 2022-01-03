@@ -1,0 +1,4 @@
+---
+collections:
+# https://github.com/kewlfft/ansible-aur
+  - name: kewlfft.aur
